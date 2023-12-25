@@ -1,0 +1,1 @@
+# gvqonda grafikuli dizainis gakvetili
