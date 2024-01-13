@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=IBM+Plex+Sans:wght@500&family=Montserrat&family=Open+Sans:wght@600&family=Poppins:wght@700&family=Roboto:wght@700;900&display=swap');
+p{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    color:rgb(131, 173, 240);
+}
+div{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    color:rgb(131, 173, 240);
+}
+h5{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    color:rgb(21, 80, 175);
+}
+h4{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    color:rgb(0, 0, 0);
+}
+img{
+    height: 80px;
+    width: 70px;
+}
