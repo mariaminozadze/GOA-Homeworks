@@ -1,0 +1,46 @@
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    color: rgb(169, 160, 160);
+}
+header h4{
+    color: rgb(160, 168, 174);
+    opacity: 0.3;
+}
+body{
+background-color: rgb(244, 244, 208);
+}
+.items{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 20px;
+} 
+.search, .home, .light, .compiuter {
+background-color: rgb(255, 255, 255);
+ border-style:inherit;
+ width: 300px;
+ height: 300px;
+ margin: 10px;
+ border-radius: 20px;
+ padding: 20px;
+}
+.items img{
+    height: 80px;
+    width: 80px;
+    padding-bottom: 110px;
+    padding-left: 150px;
+}
+.items h4{
+ opacity: 0.3;
+}
+.items h1{
+ text-shadow: 4px 4px 4px rgb(138, 132, 157);
+}

@@ -1,0 +1,15 @@
+img{
+width: 25%;
+height: 50%;
+}
+h3{
+    color:hsl(0, 0%, 100%); 
+    font-family: 'Hedvig Letters Sans';
+}
+body{
+    background-color: rgb(108, 15, 80);
+}
+h1{
+    color:hsl(0, 0%, 100%); 
+    font-family: 'Hedvig Letters Sans';
+}
